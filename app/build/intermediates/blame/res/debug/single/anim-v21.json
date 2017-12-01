@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

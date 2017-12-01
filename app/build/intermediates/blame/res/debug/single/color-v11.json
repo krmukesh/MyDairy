@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

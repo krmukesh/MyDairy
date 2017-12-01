@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/row_entry_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/row_entry_list.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/activity_update_name.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/activity_update_name.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/nav_drawer_row.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/nav_drawer_row.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/menu_report.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/menu_report.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/dialog_message.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/dialog_message.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/row_price.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/row_price.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/dialog_update_delete_price_set.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/dialog_update_delete_price_set.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_entry_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_entry_list.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_expenses_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_expenses_list.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/row_customer_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/row_customer_list.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/row_download_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/row_download_list.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_enter_name.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_enter_name.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_expenses.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_expenses.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/row_entries_by_code.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/row_entries_by_code.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_entry_details.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_entry_details.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_entry.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_entry.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_add_name.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_add_name.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_add_entry.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_add_entry.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_setprice.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_setprice.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_add_expense.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_add_expense.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/activity_price_table.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/activity_price_table.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/row_expenses_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/row_expenses_list.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/activity_update_expense.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/activity_update_expense.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/progress_bar.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/progress_bar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_report.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_report.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/splash_view.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/splash_view.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_price_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_price_list.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/menu_download.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/menu_download.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/progress_dialog.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_customer_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_customer_list.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/mukesh/.android/build-cache/91fc1967a9c99ec70e1aafcef0b03d4d9ec8d670/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/list_group_row.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/list_group_row.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_download_report.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_download_report.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/mukesh/.android/build-cache/1d9dc331a5b986e16b16e0660f2a9ec8c8b72e02/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/activity_update_entry.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/activity_update_entry.xml"
+    },
+    {
+        "merged": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/res/merged/debug/layout/fragment_download_list.xml",
+        "source": "/Users/mukesh/AndroidStudioProjects/MyDairy/app/src/main/res/layout/fragment_download_list.xml"
+    }
+]

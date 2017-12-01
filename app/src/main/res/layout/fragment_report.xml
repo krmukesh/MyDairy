@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/back_theme"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp">
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/switch_tab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/padding_margin_25"
+            android:checked="false"
+            android:scaleX="1.8"
+            android:scaleY="1.8"
+            android:textOff="@string/hint_date"
+            android:textOn="@string/hint_code"
+            android:theme="@style/MySwitch"
+            app:showText="true"
+            app:switchMinWidth="120dp"
+            app:switchTextAppearance="@style/MyStyletext"
+            app:thumbTextPadding="@dimen/padding_margin_2" />
+
+
+        <!--Code Layout start-->
+        <LinearLayout
+            android:id="@+id/tap_code_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/padding_margin_5"
+            android:layout_marginTop="@dimen/padding_margin_5"
+            android:visibility="visible">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/padding_margin_10"
+                android:orientation="horizontal"
+               android:paddingTop="@dimen/padding_margin_5"
+                android:visibility="visible"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="@dimen/padding_margin_15"
+                        android:text="Start Code"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_size_16" />
+
+                    <EditText
+                        android:id="@+id/edt_code_one"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edittext_border"
+                        android:gravity="center"
+                        android:hint="@string/hint_code"
+                        android:inputType="number|textNoSuggestions"
+                        android:maxLength="5"
+                        android:padding="@dimen/padding_margin_12"
+                        android:textColor="@color/my_black"
+                        android:textSize="@dimen/font_size_20" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="@dimen/padding_margin_15"
+                        android:text="End Code"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_size_16" />
+
+                    <EditText
+                        android:id="@+id/edt_code_second"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edittext_border"
+                        android:gravity="center"
+                        android:hint="@string/hint_code"
+                        android:inputType="number|textNoSuggestions"
+                        android:maxLength="5"
+                        android:padding="@dimen/padding_margin_12"
+                        android:textColor="@color/my_black"
+                        android:textSize="@dimen/font_size_20" />
+                </LinearLayout>
+            </LinearLayout>
+            <!--Code Layout end- And Date layout Start-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingTop="@dimen/padding_margin_5"
+                android:visibility="visible"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView_date"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="@dimen/padding_margin_15"
+                        android:text="Start Date"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_size_16" />
+
+                    <TextView
+                        android:id="@+id/input_date_one"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:hint="@string/hint_date"
+                        android:padding="@dimen/padding_margin_10"
+                        android:textColor="@color/navigationBarColor"
+                        android:textSize="@dimen/font_size_20" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/padding_margin_4"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="@dimen/padding_margin_15"
+                        android:text="End Date"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/font_size_16" />
+
+                    <TextView
+                        android:id="@+id/input_date_second"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:hint="@string/hint_date"
+                        android:padding="@dimen/padding_margin_10"
+                        android:textColor="@color/navigationBarColor"
+                        android:textSize="@dimen/font_size_20" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--Code Layout end- And Date layout Start-->
+
+
+        <LinearLayout
+            android:id="@+id/tap_date_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_margin_20"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="@dimen/padding_margin_15"
+                android:text="Select Your Date"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_size_16" />
+
+            <TextView
+                android:id="@+id/input_date_select"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center"
+                android:hint="@string/hint_date"
+                android:padding="@dimen/padding_margin_10"
+                android:textColor="@color/navigationBarColor"
+                android:textSize="@dimen/font_size_20" />
+        </LinearLayout>
+
+
+        <!--day layout end-->
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_download_report"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:layout_marginTop="@dimen/padding_margin_40"
+            android:background="@drawable/customborder"
+            android:padding="12dp"
+            android:text="@string/lvl_download"
+            android:textAllCaps="false"
+            android:textColor="@color/con_theme"
+            android:textSize="@dimen/font_size_20" />
+
+    </LinearLayout>
+</ScrollView>

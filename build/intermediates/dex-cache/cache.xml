@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mukesh/AndroidStudioProjects/MyDairy/app/libs/itextpdf-5.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f98b4177384bb226f23af39084a4b67b902c1db9">
+        <dex dex="/Users/mukesh/AndroidStudioProjects/MyDairy/app/build/intermediates/pre-dexed/debug/itextpdf-5.1.1_8aa2e4641523885a58021d41612a6e84dbf68a1d.jar" />
+    </item>
+
+</items>

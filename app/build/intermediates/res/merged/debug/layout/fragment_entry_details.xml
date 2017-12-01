@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/back_theme"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:paddingTop="@dimen/padding_margin_20">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/customer_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:inputType="text"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_size_20" />
+
+            <TextView
+                android:id="@+id/customer_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:inputType="number"
+                android:textColor="@color/white"
+                android:textSize="@dimen/font_size_18" />
+        </LinearLayout>
+
+
+        <EditText
+            android:id="@+id/input_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_margin_20"
+            android:background="@drawable/edittext_border"
+            android:gravity="center"
+            android:hint="@string/hint_code"
+            android:inputType="number"
+            android:maxLength="5"
+            android:padding="@dimen/padding_margin_12"
+            android:textColor="@color/my_black"
+            android:textSize="@dimen/font_size_20" />
+
+
+        <EditText
+            android:id="@+id/input_expenses"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/padding_margin_20"
+            android:background="@drawable/edittext_border"
+            android:gravity="center"
+            android:hint="@string/hint_expenses"
+            android:inputType="numberDecimal"
+            android:padding="@dimen/padding_margin_12"
+            android:textColor="@color/my_black"
+            android:textSize="@dimen/font_size_20" />
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_expeanses"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:layout_marginTop="@dimen/padding_margin_40"
+            android:background="@drawable/customborder"
+            android:padding="12dp"
+            android:text="@string/btn_submit"
+            android:textAllCaps="false"
+            android:textColor="@color/con_theme"
+            android:textSize="@dimen/font_size_20" />
+
+    </LinearLayout>
+</ScrollView>

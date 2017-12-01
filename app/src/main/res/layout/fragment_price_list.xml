@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/back_theme"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/padding_margin_20"
+        android:paddingRight="@dimen/padding_margin_20"
+        android:paddingTop="30dp">
+
+
+        <!--lable-->
+        <LinearLayout
+            android:id="@+id/ll_lable"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/con_theme"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/con_theme"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_margin_2"
+                    android:text="@string/hint_low_fat"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/font_size_12" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_margin_2"
+                    android:text="@string/hint_high_fat"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/font_size_12" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_margin_2"
+                    android:text="@string/hint_low_snf"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/font_size_12" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_margin_2"
+                    android:text="@string/hint_high_snf"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/font_size_12" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_margin_2"
+                    android:text="@string/hint_start_price"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/font_size_12" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_margin_2"
+                    android:text="@string/hint_interval_fat"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/font_size_12" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_margin_2"
+                    android:text="@string/hint_interval_snf"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/font_size_12" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_margin_2"
+                    android:text="@string/hint_m_type"
+                    android:textColor="@color/black_overlay"
+                    android:textSize="@dimen/font_size_12" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="@dimen/padding_margin_2"
+                android:background="@color/black_overlay" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_entered_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/padding_margin_20"
+            android:orientation="vertical">
+
+            <TableLayout
+                android:id="@+id/table_view_added"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:shrinkColumns="1"
+                android:stretchColumns="1" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

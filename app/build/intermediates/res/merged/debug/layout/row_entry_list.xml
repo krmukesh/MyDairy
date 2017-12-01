@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_bg"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/padding_margin_2"
+    android:paddingLeft="@dimen/padding_margin_10"
+    android:paddingRight="@dimen/padding_margin_10"
+    >
+
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/padding_margin_5"
+        android:layout_marginLeft="@dimen/padding_margin_5"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/costomer_code_el"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:text="Mohsin Tarik"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_size_14"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/customer_name_el"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="+91439833283832"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_size_15" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/custome_total_amount_el"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/ll"
+        android:layout_marginBottom="@dimen/padding_margin_5"
+        android:layout_marginRight="@dimen/padding_margin_5"
+        android:text="Type"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_size_14"
+        android:textStyle="bold" />
+
+</RelativeLayout>

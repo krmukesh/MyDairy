@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_bg"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/padding_margin_1"
+    android:paddingLeft="@dimen/padding_margin_10"
+    android:paddingRight="@dimen/padding_margin_10"
+    android:paddingTop="@dimen/padding_margin_1">
+
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/customer_code"
+        android:layout_marginLeft="@dimen/padding_margin_5"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_file_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mohsin Tarik"
+            android:layout_marginTop="@dimen/padding_margin_10"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_size_16"
+             />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_download_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/ll"
+        android:layout_marginTop="@dimen/padding_margin_10"
+        android:layout_marginBottom="@dimen/padding_margin_5"
+        android:layout_marginRight="@dimen/padding_margin_5"
+        android:text="Type"
+        android:textStyle="bold"
+        android:textSize="@dimen/font_size_12"
+        android:textColor="@color/black_overlay"
+         />
+
+</RelativeLayout>

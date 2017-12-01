@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">MyDairy</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="splash_tittle">MyDairy...</string>
+
+    <string name="tittle_price_table">Price Table</string>
+    <string name="tittle_update_entry">Update Entry</string>
+    <string name="tittle_update_name">Update Name</string>
+    <string name="tittle_update_expense">Update Expense</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_set_price">Set Price</string>
+    <string name="nav_item_name">Enter Name</string>
+    <string name="nav_item_entry">Entry</string>
+    <string name="nav_item_expenses">Expenses</string>
+
+    <string name="nav_item_download">Download</string>
+    <string name="nav_item_report">Report</string>
+    <string name="nav_item_sync">Sync</string>
+    <string name="nav_item_logout">Logout</string>
+    <string name="hint_customer">Customer Id</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_phone">Phone</string>
+
+    <string name="hint_enter_code">Enter Code</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_type">Type</string>
+    <string name="ex_type">Expense type</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_update">Update</string>
+
+    <string name="hint_code">Code</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_enter_fat">Enter FAT</string>
+    <string name="hint_enter_clr">Enter CLR</string>
+    <string name="hint_enter_ltr">Enter Ltr</string>
+    <string name="hint_total">Total</string>
+    <string name="hint_expenses">Expenses</string>
+
+
+    <string name="hint_low_fat">Low Fat</string>
+    <string name="hint_high_fat">High Fat</string>
+    <string name="hint_low_snf">Low SNF</string>
+    <string name="hint_high_snf">High SNF</string>
+    <string name="hint_start_price">Start Price</string>
+    <string name="hint_interval_snf">Snf interval</string>
+    <string name="hint_interval_fat">Fat interval</string>
+    <string name="hint_m_type">Type/Time</string>
+
+
+    <string name="lvl_daily_report">Daily Report</string>
+    <string name="lvl_details_report">Details Report</string>
+    <string name="lvl_price_report">Price Report</string>
+    <string name="lvl_code_list">Code List</string>
+    <string name="lvl_download">Download</string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_name</item>
+        <item>@string/nav_item_entry</item>
+        <item>@string/nav_item_expenses</item>
+        <item>@string/nav_item_set_price</item>
+        <item>@string/nav_item_report</item>
+        <item>@string/nav_item_sync</item>
+        <item>@string/nav_item_logout</item>
+
+    </string-array>
+    <string name="title_price">Set Price</string>
+    <string name="title_name">Enter Name</string>
+    <string name="title_entry">Entry</string>
+    <string name="title_expenses">Expenses</string>
+
+    <string name="title_download">Download</string>
+    <string name="title_report">Report</string>
+    <string name="title_list_customer">Customer List</string>
+    <string name="title_logout">Logout</string>
+    <string name="debit">Debit</string>
+
+
+    <string name="server_error">Some Error Occurred ,Please try after some time.</string>
+    <string name="token_expired">Your session has expired, Please Re-login.</string>
+    <string name="network_error">Network not available</string>
+    <string name="network_timeout_error">Network error occurred</string>
+    <string name="logout_msg">Please Sync data with server berfore logout</string>
+
+
+
+
+</resources>

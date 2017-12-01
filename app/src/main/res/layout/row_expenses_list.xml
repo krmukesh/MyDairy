@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_bg"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_margin_5">
+
+
+    <TextView
+        android:id="@+id/ex_customer_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Code"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_size_14"
+        android:layout_marginLeft="@dimen/padding_margin_5"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/ll_s"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/padding_margin_5"
+        android:layout_marginRight="@dimen/padding_margin_5"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <TextView
+            android:id="@+id/ex_customer_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_weight="1"
+            android:text="Mohsin Tarik"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_size_15" />
+
+        <TextView
+            android:id="@+id/ex_expense"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="Expense"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_size_14"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/ex_save_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="4:45pm"
+        android:textColor="@color/black_overlay"
+        android:textStyle="bold"
+        android:textSize="@dimen/font_size_12" />
+</LinearLayout>

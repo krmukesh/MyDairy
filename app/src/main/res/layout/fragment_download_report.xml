@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/back_theme"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:paddingTop="30dp">
+
+
+        <RadioGroup
+            android:id="@+id/dwl_radio_group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.AppCompatRadioButton
+                android:id="@+id/rb_daily_report"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/padding_margin_10"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:checked="false"
+                android:padding="@dimen/padding_margin_10"
+                android:text="@string/lvl_daily_report"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:theme="@style/MyRadioButton" />
+
+
+            <android.support.v7.widget.AppCompatRadioButton
+                android:id="@+id/rb_details_report"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/padding_margin_10"
+                android:layout_marginLeft="20dp"
+                android:checked="false"
+                android:padding="@dimen/padding_margin_10"
+                android:text="@string/lvl_details_report"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:theme="@style/MyRadioButton" />
+
+
+            <android.support.v7.widget.AppCompatRadioButton
+                android:id="@+id/rb_price_report"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/padding_margin_10"
+                android:layout_marginLeft="20dp"
+                android:checked="false"
+                android:padding="@dimen/padding_margin_10"
+                android:text="@string/lvl_price_report"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:theme="@style/MyRadioButton" />
+
+
+            <android.support.v7.widget.AppCompatRadioButton
+                android:id="@+id/rb_code_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/padding_margin_10"
+                android:layout_marginLeft="20dp"
+                android:checked="false"
+                android:padding="@dimen/padding_margin_10"
+                android:text="@string/lvl_code_list"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:theme="@style/MyRadioButton" />
+
+
+        </RadioGroup>
+
+
+        <!-- <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:padding="@dimen/padding_margin_15"
+                 android:text="@string/lvl_daily_report"
+                 android:textColor="@color/white"
+                 android:textSize="@dimen/font_size_18" />
+
+             <ImageView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentRight="true"
+                 android:layout_centerVertical="true"
+                 android:padding="@dimen/padding_margin_15"
+                 android:src="@android:drawable/checkbox_on_background" />
+
+         </RelativeLayout>
+
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="1dp"
+             android:background="@color/con_theme" />
+
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/padding_margin_5">
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:padding="@dimen/padding_margin_15"
+                 android:text="@string/lvl_details_report"
+                 android:textColor="@color/white"
+                 android:textSize="@dimen/font_size_18" />
+
+             <ImageView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentRight="true"
+                 android:layout_centerVertical="true"
+                 android:padding="@dimen/padding_margin_15"
+                 android:src="@android:drawable/checkbox_on_background" />
+
+         </RelativeLayout>
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="1dp"
+             android:background="@color/con_theme" />
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/padding_margin_5">
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:padding="@dimen/padding_margin_15"
+                 android:text="@string/lvl_price_report"
+                 android:textColor="@color/white"
+                 android:textSize="@dimen/font_size_18" />
+
+             <ImageView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentRight="true"
+                 android:layout_centerVertical="true"
+                 android:padding="@dimen/padding_margin_15"
+                 android:src="@android:drawable/checkbox_on_background" />
+
+         </RelativeLayout>
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="1dp"
+             android:background="@color/con_theme" />
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/padding_margin_5">
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:padding="@dimen/padding_margin_15"
+                 android:text="@string/lvl_code_list"
+                 android:textColor="@color/white"
+                 android:textSize="@dimen/font_size_18" />
+
+             <ImageView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentRight="true"
+                 android:layout_centerVertical="true"
+                 android:padding="@dimen/padding_margin_15"
+                 android:src="@android:drawable/checkbox_on_background" />
+
+         </RelativeLayout>-->
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_download"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/customborder"
+            android:padding="12dp"
+            android:text="@string/lvl_download"
+            android:textAllCaps="false"
+            android:textColor="@color/con_theme"
+            android:textSize="@dimen/font_size_20" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
